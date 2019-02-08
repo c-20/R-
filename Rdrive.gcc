@@ -1,0 +1,2 @@
+gcc -o R: R:.c
+# save to cgi-bin folder or equivalent
